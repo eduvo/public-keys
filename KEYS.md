@@ -26,4 +26,26 @@ Keys
     +-----------------+    
 
 
+### ManageBac
 
+    -----BEGIN PUBLIC KEY-----
+    MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAosv6JYGVmcY3CdUkLVZw
+    DnYm1mGTwS3GOXT24rAOnWWLtkY49svrrDr8fqWB/7gN7s27/6X890ttSZtZBhLn
+    8DAbxUhxSbYgtRVVIv2xVfUtW+g/bG/dnEHdH81hEhEBYDkVGaHkauaalMVXXC6c
+    NJ9oeAejz2BDThcSFRWzPYixopnwHhlNdOcO2BKJBh8VN45IHC8B0XSXUCxlXcp6
+    8LpDK76axNe+MJiiu1gYfCq8hgkVFzCYQwmmD9WyDhoRLzzzs8D7JButF38SWdVG
+    BBNCpLDkU4K+YfwlDDtHZ4Oshvbh9S7J/hesl/Gga4Hae2zmYC8BjoMTGLVawsSU
+    8QIDAQAB
+    -----END PUBLIC KEY-----
+
+    +--[ RSA 2048]----+
+    |                 |
+    |                 |
+    |                 |
+    |       .         |
+    |    o = S .      |
+    |   . @ . +       |
+    |  o O E          |
+    |o. =.*           |
+    | +*=o .          |
+    +-----------------+
